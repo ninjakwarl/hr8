@@ -8,5 +8,5 @@
 
 
 **Admin Login Details** 
-Email   : thoma@mail.com
+Email   : admin@mail.com
 Password: Password@123
